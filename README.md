@@ -154,3 +154,6 @@ alembic upgrade head
 ```bash
 fastapi dev app/main.py
 ```
+
+Acesse o URL http://localhost:8000/docs para testar a API.
+
